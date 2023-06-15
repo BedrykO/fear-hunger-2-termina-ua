@@ -106,8 +106,8 @@ Game_System.prototype.isCJK = function() {
     return $dataSystem.locale.match(/^(ja|zh|ko)/);
 };
 
-Game_System.prototype.isRussian = function() {
-    return $dataSystem.locale.match(/^ru/);
+Game_System.prototype.isUkrainian = function() {
+    return $dataSystem.locale.match(/^ua/);
 };
 
 Game_System.prototype.isSideView = function() {
