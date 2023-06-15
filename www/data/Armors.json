@@ -691,7 +691,7 @@
     {
         "id": 20,
         "atypeId": 3,
-        "description": "An ever watching eye is taking care of you. It seems to\nrelieve your feelings of fear and terror...",
+        "description": "За тобою пильно стежать.Здається, що\nце полегшує відчуття страху і жаху...",
         "etypeId": 5,
         "traits": [
             {
@@ -706,7 +706,7 @@
             }
         ],
         "iconIndex": 272,
-        "name": "///Everwatching talisman",
+        "name": "///Спостерігаючий талісман",
         "note": "",
         "params": [
             0,
@@ -750,7 +750,7 @@
     {
         "id": 22,
         "atypeId": 4,
-        "description": "A pair of leg guards to prevent serious injuries.",
+        "description": "Пара захисних накладок на ноги для запобігання серйозних травм.",
         "etypeId": 5,
         "traits": [
             {
@@ -780,7 +780,7 @@
             }
         ],
         "iconIndex": 271,
-        "name": "///Leg guards",
+        "name": "///Накладки на ноги",
         "note": "",
         "params": [
             0,
@@ -797,7 +797,7 @@
     {
         "id": 23,
         "atypeId": 3,
-        "description": "Chainmail hood gives it's users great protection, however\nit's a little uncomformtable.",
+        "description": "Кольчужний капюшон надає своїм користувачам чудовий захист,\nпроте він трохи незручний.",
         "etypeId": 3,
         "traits": [
             {
@@ -817,7 +817,7 @@
             }
         ],
         "iconIndex": 262,
-        "name": "///Chainmail hood",
+        "name": "///Кольчужний капюшон",
         "note": "",
         "params": [
             0,
@@ -834,7 +834,7 @@
     {
         "id": 24,
         "atypeId": 4,
-        "description": "A heavy helmet that not only gives great protection,\nbut also prevents confusion and getting stunned.",
+        "description": "Важкий шолом, який не тільки забезпечує чудовий захист,\nале й запобігає розгубленості та оглушенню.",
         "etypeId": 3,
         "traits": [
             {
@@ -859,7 +859,7 @@
             }
         ],
         "iconIndex": 263,
-        "name": "///Plate helmet",
+        "name": "///Пластинчастий шолом",
         "note": "",
         "params": [
             0,
@@ -876,7 +876,7 @@
     {
         "id": 25,
         "atypeId": 4,
-        "description": "A plated iron cuirass armour that offers moderate defence.\nWithout pauldrons it offers good mobility.",
+        "description": "Покрита залізом кіраса, що забезпечує помірний захист.\nБез наплічників він надає хорошу мобільність.",
         "etypeId": 4,
         "traits": [
             {
@@ -896,7 +896,7 @@
             }
         ],
         "iconIndex": 236,
-        "name": "///Iron cuirass",
+        "name": "///Залізна кіраса",
         "note": "",
         "params": [
             0,
@@ -913,7 +913,7 @@
     {
         "id": 26,
         "atypeId": 3,
-        "description": "A freshly cut cavewolf paw. It is said to bring good luck,\nbut surely that's just some nonsense folklore?",
+        "description": "Новоспечена відрізана лапа печерного вовка. Кажуть, що вона приносить удачу,\nале це, напевно, просто якась нісенітниця з фольклору?",
         "etypeId": 5,
         "traits": [
             {
@@ -923,7 +923,7 @@
             }
         ],
         "iconIndex": 286,
-        "name": "///Cavewolf paw",
+        "name": "///Лапа печерного вовка",
         "note": "",
         "params": [
             0,
@@ -940,11 +940,11 @@
     {
         "id": 27,
         "atypeId": 3,
-        "description": "The ring of a long gone new god Betel. The ring has magic\nimbued in it that is constantly leaking from the crystal.",
+        "description": "Кільце давно зниклого нового бога Бетеля. У кільці є закляття,\nяке постійно просочується з кристала.",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 298,
-        "name": "Betel's stone",
+        "name": "Камінь Бетеля",
         "note": "\n\n\n\n\n<Picture: icon_sorcerers_stone>\n<Passive State: 229>",
         "params": [
             0,
@@ -961,7 +961,7 @@
     {
         "id": 28,
         "atypeId": 3,
-        "description": "A ring that is said to make blood still and thus prevent\nbleeding. There's no way to explain this but magic.",
+        "description": "Кажуть, що це кільце здатне зупинити кровотечу,\nзатамувавши кров. Єдине пояснення - це магія.",
         "etypeId": 5,
         "traits": [
             {
@@ -971,7 +971,7 @@
             }
         ],
         "iconIndex": 62,
-        "name": "Ring of the still-blood",
+        "name": "Кільце Нерухомої Крові",
         "note": "\n\n\n\n\n\n\n<Picture: icon_ring_of_stillblood>",
         "params": [
             0,
@@ -1042,7 +1042,7 @@
     {
         "id": 31,
         "atypeId": 3,
-        "description": "An iron helmet that protect the entire face, including\neyes.",
+        "description": "Желізний шолом, що захищає всю обличчя,\nвключаючи очі.",
         "etypeId": 3,
         "traits": [
             {
@@ -1072,7 +1072,7 @@
             }
         ],
         "iconIndex": 299,
-        "name": "///Iron mask",
+        "name": "///Залізна маска",
         "note": "",
         "params": [
             0,
@@ -1089,11 +1089,11 @@
     {
         "id": 32,
         "atypeId": 3,
-        "description": "A mascot of good luck and fortune. The fact that you can\ncraft it yourself works as powerful symbolism.",
+        "description": "Талісман доброї удачі та достатку.Той факт, що ви можете самостійно\nстворити його, працює як потужний символізм.",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 314,
-        "name": "///Pinecone pig",
+        "name": "///Свинка з шишкою хвойного дерева",
         "note": "\n\n\n\n\n<Synthesis Ingredients>\nitem 26\nitem 27\n</Synthesis Ingredients>",
         "params": [
             0,
@@ -1110,7 +1110,7 @@
     {
         "id": 33,
         "atypeId": 4,
-        "description": "A plated armor which offers great protection. The armor\nhas a family insignia of a bird.",
+        "description": "Латний доспех, що надає великий захист.На доспеху\nзображено родовий герб у вигляді птаха.",
         "etypeId": 4,
         "traits": [
             {
@@ -1130,7 +1130,7 @@
             }
         ],
         "iconIndex": 302,
-        "name": "///Gaunt plate armor",
+        "name": "///Рукавичкова плиткова броня",
         "note": "",
         "params": [
             0,
@@ -1147,7 +1147,7 @@
     {
         "id": 34,
         "atypeId": 4,
-        "description": "A steel military helmet with a face guard. Offers\nprotection for throat, neck and rest of the head.",
+        "description": "Стальний військовий шолом з захисним щитком для обличчя.\nЗабезпечує захист горла, шиї та решти голови.",
         "etypeId": 3,
         "traits": [
             {
@@ -1172,7 +1172,7 @@
             }
         ],
         "iconIndex": 316,
-        "name": "///Gaunt bascinet",
+        "name": "///Гаунтлет типу баскінет",
         "note": "",
         "params": [
             0,
@@ -1189,7 +1189,7 @@
     {
         "id": 35,
         "atypeId": 3,
-        "description": "The soul of the Cavemother gives its owner increased\naggression.",
+        "description": "Душа Печерної Матері надає власнику збільшену агресивність.",
         "etypeId": 5,
         "traits": [
             {
@@ -1204,7 +1204,7 @@
             }
         ],
         "iconIndex": 274,
-        "name": "///Cavemother soul",
+        "name": "///Душа Печерної Матері",
         "note": "",
         "params": [
             0,
@@ -1221,7 +1221,7 @@
     {
         "id": 36,
         "atypeId": 3,
-        "description": "The condensed wrath of the Crow Mauler. Increases the \nstrength of whoever holds it.",
+        "description": "Згущена гнівом Крушителя Ворон. Збільшує \nсилу того, хто тримає його.",
         "etypeId": 5,
         "traits": [
             {
@@ -1236,7 +1236,7 @@
             }
         ],
         "iconIndex": 274,
-        "name": "///Crow Mauler soul",
+        "name": "///Душа Крушителя Ворон",
         "note": "",
         "params": [
             0,
@@ -1253,7 +1253,7 @@
     {
         "id": 37,
         "atypeId": 3,
-        "description": "The soul of the Iron Shakespeare enhances the defence\nof whoever holds it.",
+        "description": "Душа Залізного Шекспіра підвищує захист\nтого, хто тримає її.",
         "etypeId": 5,
         "traits": [
             {
@@ -1283,7 +1283,7 @@
             }
         ],
         "iconIndex": 274,
-        "name": "///Iron shakespeare soul",
+        "name": "///Душа Залізного Шекспіра",
         "note": "",
         "params": [
             0,
@@ -1300,7 +1300,7 @@
     {
         "id": 38,
         "atypeId": 3,
-        "description": "The soul of the Butterfly makes it easier to evade incoming\nattacks with a feather light steps.",
+        "description": "Душа Метелика полегшує ухиляння від атак завдяки\nпернатим легким крокам.",
         "etypeId": 5,
         "traits": [
             {
@@ -1315,7 +1315,7 @@
             }
         ],
         "iconIndex": 274,
-        "name": "///Butterfly soul",
+        "name": "///Душа Метелика",
         "note": "",
         "params": [
             0,
@@ -1332,7 +1332,7 @@
     {
         "id": 39,
         "atypeId": 3,
-        "description": "The soul of the Black witch gives its owner occult\npowers that poison the opponent.",
+        "description": "Душа Чорної відьми дарує її власнику магічні\nсили, які отруюють противника.",
         "etypeId": 5,
         "traits": [
             {
@@ -1347,7 +1347,7 @@
             }
         ],
         "iconIndex": 274,
-        "name": "///Black witch soul",
+        "name": "///Душа Чорної відьми",
         "note": "",
         "params": [
             0,
@@ -1391,7 +1391,7 @@
     {
         "id": 41,
         "atypeId": 4,
-        "description": "Armpieces that clearly belong to a larger setup. On their own\nthey already offer decent protection and prevent arm loss.",
+        "description": "Накладки на підплічники, що явно належать до більшої комплектації. Сами по\nсобі вони вже надають достатнього захисту і запобігають втраті руки.",
         "etypeId": 5,
         "traits": [
             {
@@ -1416,8 +1416,8 @@
             }
         ],
         "iconIndex": 50,
-        "name": "Fluted armpieces",
-        "note": "\nSlash 85%  Pierce 85%  Blunt 85%\n\n\n\n\n\n<Picture: icon_fluted_arm_pieces>\n<Armor Recipe: 44>\n<Not Independent Item>\n",
+        "name": "Зубчасті підплічники",
+        "note": "\nРіжучий 85%  Колючий 85%  Тупий 85%\n\n\n\n\n\n<Picture: icon_fluted_arm_pieces>\n<Armor Recipe: 44>\n<Not Independent Item>\n",
         "params": [
             0,
             0,
@@ -1433,7 +1433,7 @@
     {
         "id": 42,
         "atypeId": 4,
-        "description": "An old medieval breastplate that seems to belong to a larger\nsetup. On its own it already offers great protection.",
+        "description": "Старовинний середньовічний нагрудник, який, здається, належить до\nбільшої комплектації. Сам по собі він вже надає великого захисту.",
         "etypeId": 4,
         "traits": [
             {
@@ -1453,8 +1453,8 @@
             }
         ],
         "iconIndex": 51,
-        "name": "Fluted breastplate",
-        "note": "\nSlash 68%  Pierce 70%  Blunt 80%\n\n\n\n\n\n<Picture: icon_fluted_breastplate>\n<Armor Recipe: 44>\n<Not Independent Item>\n",
+        "name": "Зубчастий нагрудник",
+        "note": "\nРіжучий 68%  Колючий 70%  Тупий 80%\n\n\n\n\n\n<Picture: icon_fluted_breastplate>\n<Armor Recipe: 44>\n<Not Independent Item>\n",
         "params": [
             0,
             0,
@@ -1470,7 +1470,7 @@
     {
         "id": 43,
         "atypeId": 4,
-        "description": "A fauld that clearly belong to a larger setup, most likely\nto an armor set. On its own it already offers decent protection.",
+        "description": "Фальда, яка явно належить до більшої комплектації, ймовірно,\nдо комплекту броні. Сама по собі вона вже надає непоганого захисту.",
         "etypeId": 4,
         "traits": [
             {
@@ -1490,8 +1490,8 @@
             }
         ],
         "iconIndex": 52,
-        "name": "Fluted fauld",
-        "note": "\nSlash 89%  Pierce 89%  Blunt 89%\n\n\n\n\n<Picture: icon_fluted_fauld>\n<Armor Recipe: 44>\n<Not Independent Item>\n",
+        "name": "Зубчаста фальда",
+        "note": "\nРіжучий 89%  Колючий 89%  Тупий 89%\n\n\n\n\n<Picture: icon_fluted_fauld>\n<Armor Recipe: 44>\n<Not Independent Item>\n",
         "params": [
             0,
             0,
@@ -1507,7 +1507,7 @@
     {
         "id": 44,
         "atypeId": 4,
-        "description": "An old medieval armor that is in surprisingly good shape.\nThe decoration suggests this armor came from Valland originally.",
+        "description": "Старовинна середньовічна броня, яка дивовижно добре збереглася.\nДекорація свідчить про те, що ця броня походить з Валланду.",
         "etypeId": 4,
         "traits": [
             {
@@ -1542,8 +1542,8 @@
             }
         ],
         "iconIndex": 53,
-        "name": "Fluted armor",
-        "note": "\nSlash 55%  Pierce 65%  Blunt 65%  Fire 93%\n\n\n\n\n<Synthesis Ingredients>\narmor 41\narmor 42\narmor 43\n</Synthesis Ingredients>\n<Picture: icon_fluted_armor>",
+        "name": "Зубчаста броня",
+        "note": "\nРіжучий 55%  Колючий 65%  Тупий 65%  Вогняний 93%\n\n\n\n\n<Synthesis Ingredients>\narmor 41\narmor 42\narmor 43\n</Synthesis Ingredients>\n<Picture: icon_fluted_armor>",
         "params": [
             0,
             0,
@@ -1559,7 +1559,7 @@
     {
         "id": 45,
         "atypeId": 4,
-        "description": "A plate mail armor offers great defence, but is rather clunky\nand uncomfortable to use. The armor has egravings of a Bremen eagle.",
+        "description": "Броня пластинового типу надає великий захист, але досить незручна та важка у використанні.\nНа броні виконані гравірування з зображенням орла Бремена.",
         "etypeId": 4,
         "traits": [
             {
@@ -1584,8 +1584,8 @@
             }
         ],
         "iconIndex": 146,
-        "name": "Bremen chestplate",
-        "note": "\nSlash 65%  Pierce 65%  Blunt 70%  Fire 98%\n\n\n\n\n\n<Picture: icon_bremen_chestplate>",
+        "name": "Бременський нагрудник",
+        "note": "\nРіжучий 65%  Колючий 65%  Тупий 70%  Вогняний 98%\n\n\n\n\n\n<Picture: icon_bremen_chestplate>",
         "params": [
             0,
             0,
@@ -1601,7 +1601,7 @@
     {
         "id": 46,
         "atypeId": 4,
-        "description": "A pair of arm guards that prevent serious injuries.",
+        "description": "Пара нарукавників, що запобігають серйозним травмам.",
         "etypeId": 5,
         "traits": [
             {
@@ -1626,8 +1626,8 @@
             }
         ],
         "iconIndex": 160,
-        "name": "Arm guards",
-        "note": "\nSlash 88%  Pierce 88%  Blunt 88%\n\n\n\n\n\n<Picture: icon_armguards>",
+        "name": "Нарукавники",
+        "note": "\nРіжучий 88%  Колючий 88%  Тупий 88%\n\n\n\n\n\n<Picture: icon_armguards>",
         "params": [
             0,
             0,
@@ -1643,7 +1643,7 @@
     {
         "id": 47,
         "atypeId": 3,
-        "description": "A silver necklace with a soul stone embedded on it. The stone\nprotects against otherwordly powers. ",
+        "description": "Срібний намисто з вкрапленим на ньому каменем душі.\nКамінь захищає від потусторонніх сил. ",
         "etypeId": 5,
         "traits": [
             {
@@ -1653,8 +1653,8 @@
             }
         ],
         "iconIndex": 310,
-        "name": "Soul devour necklace",
-        "note": "\nOtherworldly 82%\n\n\n\n\n<Picture: icon_souldevour>",
+        "name": "Намисто Пожирач Душ",
+        "note": "\nПотойбічний 82%\n\n\n\n\n<Picture: icon_souldevour>",
         "params": [
             0,
             0,
@@ -1670,11 +1670,11 @@
     {
         "id": 48,
         "atypeId": 3,
-        "description": "A cameo carving of a beautiful woman from a bygone era. The \njewel emits strange aura...",
+        "description": "Камея, вирізана зображенням прекрасної жінки з минулого часу.\nЦей коштовний камінь випромінює дивну ауру...",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 299,
-        "name": "Cameo",
+        "name": "Камея",
         "note": "\n\n\n\n\n\n<Picture: icon_cameo>",
         "params": [
             0,
@@ -1718,7 +1718,7 @@
     {
         "id": 50,
         "atypeId": 3,
-        "description": "A simple lens worn on one eye. Slightly improves the\naccuracy of its wearer.",
+        "description": "Просте лінза, яке носиться на одному оці. Трохи покращує \nточність його власника.",
         "etypeId": 5,
         "traits": [
             {
@@ -1733,7 +1733,7 @@
             }
         ],
         "iconIndex": 88,
-        "name": "///Monocle",
+        "name": "///Монокль",
         "note": "",
         "params": [
             0,
@@ -1750,7 +1750,7 @@
     {
         "id": 51,
         "atypeId": 3,
-        "description": "You can see the world clearer with these. Improves the\naccuracy of its wearer greatly.",
+        "description": "Ви можете бачити світ чіткіше за допомогою цих окулярів. Вони значно\nпідвищують точність їх власника.",
         "etypeId": 5,
         "traits": [
             {
@@ -1765,7 +1765,7 @@
             }
         ],
         "iconIndex": 60,
-        "name": "Eyeglasses",
+        "name": "Окуляри",
         "note": "\n\n\n\n\n<Picture: icon_eyeglasses>",
         "params": [
             0,
@@ -1782,7 +1782,7 @@
     {
         "id": 52,
         "atypeId": 3,
-        "description": "A bottle that contains eastern perfume. The aroma\nattracts monsters and beasts of all kind.",
+        "description": "Пляшка, що містить східний парфум. Аромат приваблює\nмонстрів і звірів всіх видів.",
         "etypeId": 5,
         "traits": [
             {
@@ -1797,7 +1797,7 @@
             }
         ],
         "iconIndex": 86,
-        "name": "///Eastern perfume",
+        "name": "///Східний парфум",
         "note": "",
         "params": [
             0,
@@ -1814,7 +1814,7 @@
     {
         "id": 53,
         "atypeId": 3,
-        "description": "You can see the world clearer with these. Or you could if\nthey weren't broken...",
+        "description": "Ви могли б бачити світ чіткіше за допомогою цих речей.\nАле вони пошкоджені...",
         "etypeId": 5,
         "traits": [
             {
@@ -1829,7 +1829,7 @@
             }
         ],
         "iconIndex": 60,
-        "name": "Broken eyeglasses",
+        "name": "Пошкоджені окуляри",
         "note": "\n\n\n\n\n<Picture: icon_eyeglasses>",
         "params": [
             0,
@@ -1873,7 +1873,7 @@
     {
         "id": 55,
         "atypeId": 3,
-        "description": "A dried and burned severed head. The face is forever left\nin a spiteful grimace. The head is not without purpose though,",
+        "description": "Висушена й згоріла відірвана голова. Обличчя назавжди\nзалишилося в зливій гримасі. Проте голова не є безцільною,",
         "etypeId": 5,
         "traits": [
             {
@@ -1883,8 +1883,8 @@
             }
         ],
         "iconIndex": 314,
-        "name": "Beheaded wizard",
-        "note": "\nsomekind of power in it reflects otherwordly attacks occasionally.\n\n\n\n\n\n\n\n<Element Reflect 06: +30%>\n<Cannot Discard>\n<Picture: icon_beheaded_wizard>",
+        "name": "Обезголовлений чарівник",
+        "note": "\nоскільки в ній міститься якась сила, яка час від часу відбиває атаки з потусторонніх джерел.\n\n\n\n\n\n\n\n<Element Reflect 06: +30%>\n<Cannot Discard>\n<Picture: icon_beheaded_wizard>",
         "params": [
             0,
             0,
@@ -1900,7 +1900,7 @@
     {
         "id": 56,
         "atypeId": 3,
-        "description": "A hefty ring forged by the Hermit Mages of South who dedicated\ntheir lives to the God of the Depths hundreds of years ago.",
+        "description": "Масивне кільце, створене Відшельниками-Магами з Півдня,\nякі засвятили свої життя Богу Глибини сотні років тому.",
         "etypeId": 5,
         "traits": [
             {
@@ -1910,8 +1910,8 @@
             }
         ],
         "iconIndex": 101,
-        "name": "Leechmonger ring",
-        "note": "\nThe mages were able to infuse the ring with life draining magic.\n\n\n\n\n\n\n\n<Picture: icon_leechmonger_ring>\n<Passive State: 232>",
+        "name": "Кільце Паразитний Вершник",
+        "note": "\nМаги змогли наділити кільце магією відбирання життя.\n\n\n\n\n\n\n\n<Picture: icon_leechmonger_ring>\n<Passive State: 232>",
         "params": [
             0,
             0,
@@ -1937,7 +1937,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "Counter",
+        "name": "Лічильник",
         "note": "",
         "params": [
             0,
@@ -1981,12 +1981,12 @@
     {
         "id": 59,
         "atypeId": 3,
-        "description": "A cameo carving of a beautiful woman from a bygone era.\nThe jewel emits strange aura... It is now possessed and grants",
+        "description": "Камея, вирізана зображенням прекрасної жінки з минулого часу.\nКамінь випромінює дивну ауру... Він зараз володіється і надає",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 299,
-        "name": "Guardian cameo",
-        "note": "\nprotection to those in low health.\n\n\n\n\n<Picture: icon_cameo>\n<Passive State: 146>",
+        "name": "Камея-Охоронець",
+        "note": "\nзахист тим, хто має низький рівень здоров'я.\n\n\n\n\n<Picture: icon_cameo>\n<Passive State: 146>",
         "params": [
             0,
             0,
@@ -2002,12 +2002,12 @@
     {
         "id": 60,
         "atypeId": 3,
-        "description": "A crystalized and hardened heart that has seen its share of pain\nand suffering. It now offers a glimpse of the same determination",
+        "description": "Закристалізоване і затверділе серце, яке пережило свою дозу\nболю і страждань.Воно тепер дає уявлення про ту саму вольову напругу",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 61,
-        "name": "Hardened heart",
-        "note": "\nits previous owner had to its new master.\n\n\n\n\n\n<Picture: icon_hardened_heart>\n<Passive State: 145>",
+        "name": "Затверділе серце",
+        "note": "\nйого попередній власник мав до його нового володаря.\n\n\n\n\n\n<Picture: icon_hardened_heart>\n<Passive State: 145>",
         "params": [
             0,
             0,
@@ -2023,12 +2023,12 @@
     {
         "id": 61,
         "atypeId": 3,
-        "description": "A crudely shaped amulet representing a rat deity. The peculiar\nthing is imbued with prayers of the ratkin that grant its wearer",
+        "description": "Недбало сформований амулет, що зображує богиню-щура. Ця дивна річ\nнасичена молитвами щурят, які дарують її власнику",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 272,
-        "name": "Small thing's amulet",
-        "note": "\na small boost in agility to help evade possible dangers.\n\n\n\n\n\n<Picture: icon_small_things_amulet>",
+        "name": "Амулет Маленька річ",
+        "note": "\nневелике підвищення ловкості, щоб допомогти уникнути можливих небезпек.\n\n\n\n\n\n<Picture: icon_small_things_amulet>",
         "params": [
             0,
             0,
@@ -2044,7 +2044,7 @@
     {
         "id": 62,
         "atypeId": 3,
-        "description": "An old relic from northern warrior tribes of Oldegård. The rune is said\nto contain a soul of a Salmonsnake that gives its owner a hardened skin",
+        "description": "Старовинний релікт від північних воїнських племен Ольдегорда. Кажуть, що руна \nмістить душу Лосось-змія, що дає його власнику зміцнену шкіру.",
         "etypeId": 5,
         "traits": [
             {
@@ -2089,8 +2089,8 @@
             }
         ],
         "iconIndex": 99,
-        "name": "Salmonsnake rune",
-        "note": "\nthat prevents limb losses, burns and bleeding.\n\n\n\n\n\n\n\n<Picture: icon_salmonsnake_rune>",
+        "name": "Руна Лосось-змія",
+        "note": "\nяка запобігає втраті кінцівок, опікам та кровотечам.\n\n\n\n\n\n\n\n<Picture: icon_salmonsnake_rune>",
         "params": [
             0,
             0,
@@ -2106,12 +2106,12 @@
     {
         "id": 63,
         "atypeId": 3,
-        "description": "A ring with a blood diamond embedded on it. The diamond has seen\nso much death that life force is leaking from it. The priests of Rondon",
+        "description": "Кільце з вставленим на ньому кровавим діамантом.Діамант бачив\nнастільки багато смерті, що життєва сила витікає з нього.Священники Рондона",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 194,
-        "name": "Ring of wraiths",
-        "note": "\nhave slaves digging these diamonds no matter the cost.\n\n\n\n\n\n\n<Picture: icon_ring_of_wraiths>\n<Passive State: 230>\n\n",
+        "name": "Кільце спустошень",
+        "note": "\nмають рабів, які розкопують ці діаманти, незалежно від вартості.\n\n\n\n\n\n\n<Picture: icon_ring_of_wraiths>\n<Passive State: 230>\n\n",
         "params": [
             0,
             0,
@@ -2127,7 +2127,7 @@
     {
         "id": 64,
         "atypeId": 3,
-        "description": "A ring with thorns that emit steady flow of poison to its wearer.\nSteady flow makes one immune to more potent toxins.",
+        "description": "Кільце з шипами, що випускають постійний потік отрути на його власника.\nЦей постійний потік робить його імунним до більш потужних отрут.",
         "etypeId": 5,
         "traits": [
             {
@@ -2142,7 +2142,7 @@
             }
         ],
         "iconIndex": 275,
-        "name": "Thorned ring",
+        "name": "Кільце з шипами",
         "note": "\n\n\n\n\n\n\n<Picture: icon_thorned_ring>",
         "params": [
             0,
@@ -2159,11 +2159,11 @@
     {
         "id": 65,
         "atypeId": 8,
-        "description": "A special lightweight foldable wheelchair. It is easy and fast\nto set up and feels surprisingly durable despite its size.",
+        "description": "Спеціальний легкий складний візок для інвалідів.Він легко і швидко\nрозкладається і вражає своєю надійністю, незважаючи на свої розміри.",
         "etypeId": 6,
         "traits": [],
         "iconIndex": 142,
-        "name": "Foldable wheelchair",
+        "name": "Складний візок для інвалідів",
         "note": "\n\n\n\n\n\n<Picture: icon_wheelchair>",
         "params": [
             0,
@@ -2207,7 +2207,7 @@
     {
         "id": 67,
         "atypeId": 3,
-        "description": "A rather nonchalant linen vest. It's defensive capabilities are \nmostly otherwordly.",
+        "description": "Досить безтурботний лляний жилет. Його оборонні можливості в основному\nмають надприродний характер.",
         "etypeId": 4,
         "traits": [
             {
@@ -2217,8 +2217,8 @@
             }
         ],
         "iconIndex": 19,
-        "name": "Linen vest",
-        "note": "\nOtherworldly 95%\n\n\n\n\n<Picture: icon_linen_vest>",
+        "name": "Лляний жилет",
+        "note": "\nПотойбічний 95%\n\n\n\n\n<Picture: icon_linen_vest>",
         "params": [
             0,
             0,
@@ -2234,7 +2234,7 @@
     {
         "id": 68,
         "atypeId": 3,
-        "description": "A military-issue combat jacket that has become popular with\ncivilians as well.",
+        "description": "Військова куртка для бойових дій, яка також стала популярною \nсеред цивільного населення.",
         "etypeId": 4,
         "traits": [
             {
@@ -2259,8 +2259,8 @@
             }
         ],
         "iconIndex": 38,
-        "name": "Combat jacket",
-        "note": "\nSlash 91%  Pierce 91%  Fire 80%\n\n\n\n\n<Picture: icon_combat_jacket>",
+        "name": "Бойова куртка",
+        "note": "\nРіжучий 91%  Колючий 91%  Вогняний 80%\n\n\n\n\n<Picture: icon_combat_jacket>",
         "params": [
             0,
             0,
@@ -2276,7 +2276,7 @@
     {
         "id": 69,
         "atypeId": 3,
-        "description": "A fine looking gentleman's hat. It's a little bit old fashioned\nbut some things are timeless.",
+        "description": "Красивий капелюх джентльмена. Він трохи старомодний,\nале деякі речі завжди в тренді.",
         "etypeId": 3,
         "traits": [
             {
@@ -2286,8 +2286,8 @@
             }
         ],
         "iconIndex": 263,
-        "name": "Gentleman's hat",
-        "note": "\nOtherworldly 99%\n\n\n\n\n<Picture: icon_gentleman_hat>",
+        "name": "Капелюх джентльмена",
+        "note": "\nПотойбічний 99%\n\n\n\n\n<Picture: icon_gentleman_hat>",
         "params": [
             0,
             0,
@@ -2303,7 +2303,7 @@
     {
         "id": 70,
         "atypeId": 3,
-        "description": "A natural white kashmir suit.\nYou feel especially confident in such a fine suit and thus your",
+        "description": "Природньо-білий кашеміровий костюм.\nВ такому вишуканому костюмі ви почуваєте себе особливо впевнено, і тому ваша",
         "etypeId": 4,
         "traits": [
             {
@@ -2328,8 +2328,8 @@
             }
         ],
         "iconIndex": 37,
-        "name": "Kashmir suit",
-        "note": "\nhit, evasion and critical rates are all boosted.\n\n\n\n\n<Picture: icon_kashmir_suit>",
+        "name": "Кашеміровий костюм",
+        "note": "\nшвидкість удару, уникнення та критичні показники всі підвищуються.\n\n\n\n\n<Picture: icon_kashmir_suit>",
         "params": [
             0,
             0,
@@ -2345,7 +2345,7 @@
     {
         "id": 71,
         "atypeId": 3,
-        "description": "A pilot jacket.",
+        "description": "Пілотська куртка",
         "etypeId": 4,
         "traits": [
             {
@@ -2375,8 +2375,8 @@
             }
         ],
         "iconIndex": 36,
-        "name": "Pilot jacket",
-        "note": "\nSlash 93%  Pierce 93%  Fire 85%  Otherworldly 93%\n\n\n\n\n<Picture: icon_pilot_jacket>",
+        "name": "Куртка пілота",
+        "note": "\nРіжучий 93%  Колючий 93%  Тупий 85%  Потойбічний 93%\n\n\n\n\n<Picture: icon_pilot_jacket>",
         "params": [
             0,
             0,
@@ -2392,7 +2392,7 @@
     {
         "id": 72,
         "atypeId": 3,
-        "description": "Traditional wear of a yellow mage. The robes have multiple\ndifferent patterns from multiple different cultures. Different",
+        "description": "Традиційний одяг жовтої магії.Вишиванки мають \nрізноманітні візерунки з різних культур. Різні",
         "etypeId": 4,
         "traits": [
             {
@@ -2402,8 +2402,8 @@
             }
         ],
         "iconIndex": 20,
-        "name": "Yellow mage robes",
-        "note": "\ndangly bits and talismans protect its user from otherwordly powers.\n\n\n\n<Picture: icon_yellow_robes>",
+        "name": "Роби жовтої магії",
+        "note": "\nприкраси та талісмани захищають користувача від магічних сил з інших світів.\n\n\n\n<Picture: icon_yellow_robes>",
         "params": [
             0,
             0,
@@ -2419,7 +2419,7 @@
     {
         "id": 73,
         "atypeId": 3,
-        "description": "A fine suede jacket with button closure on front. It is a little\nbit worn at places but overall in great condition.",
+        "description": "Вишукана куртка з замші з застібкою на гудзики спереду.Вона трохи \nзношена в деяких місцях, але загалом у відмінному стані.",
         "etypeId": 4,
         "traits": [
             {
@@ -2434,8 +2434,8 @@
             }
         ],
         "iconIndex": 35,
-        "name": "Suede jacket",
-        "note": "\nWearing such nice jacket boosts your confidence and critical rate.\n\n\n\n\n<Picture: icon_suede_jacket>",
+        "name": "Замшева куртка",
+        "note": "\nНосіння такої гарної куртки підвищує вашу впевненість та критичний показник.\n\n\n\n\n<Picture: icon_suede_jacket>",
         "params": [
             0,
             0,
@@ -2478,7 +2478,7 @@
     {
         "id": 75,
         "atypeId": 3,
-        "description": "A crude gas mask made out of pigskin. It's not the most reliable\nprotection against toxic gasses, but better than nothing.",
+        "description": "Груба газова маска, виготовлена зі шкіри свині.Вона не є найнадійнішим \nзасобом захисту від отруйних газів, але краще, ніж нічого.",
         "etypeId": 5,
         "traits": [
             {
@@ -2498,8 +2498,8 @@
             }
         ],
         "iconIndex": 63,
-        "name": "Pigskin gas mask",
-        "note": "\nSlash 97%\n\n\n\n\n<Picture: icon_vile_head>",
+        "name": "Газова маска зі шкіри свині",
+        "note": "\nРіжучий 97%\n\n\n\n\n<Picture: icon_vile_head>",
         "params": [
             0,
             0,
@@ -2515,7 +2515,7 @@
     {
         "id": 76,
         "atypeId": 3,
-        "description": "Gas mask of the Bremen flame troopers. Flame troopers were often\nused in city warfare where they would scorch everything in sight.",
+        "description": "Газова маска вогненних солдатів Бремена. Вогненні солдати часто використовувалися\nв міському бойовому зіткненні, де вони знищували все на своєму шляху вогнем.",
         "etypeId": 5,
         "traits": [
             {
@@ -2560,8 +2560,8 @@
             }
         ],
         "iconIndex": 163,
-        "name": "Bremen gas mask",
-        "note": "\nSlash 91%  Pierce 91%  Blunt 91%  Fire 91%\n\n\n\n\n<Picture: icon_bremen_gasmask>",
+        "name": "Газова маска Бремена",
+        "note": "\nРіжучий 91%  Колючий 91%  Тупий 91%  Вогняний 91%\n\n\n\n\n<Picture: icon_bremen_gasmask>",
         "params": [
             0,
             0,
@@ -2577,7 +2577,7 @@
     {
         "id": 77,
         "atypeId": 3,
-        "description": "The helmet clearly takes inspiration from ancient Lombardia\nwhere fighters clad in armor would duel for people's entertainment.",
+        "description": "Шолом явно натхненний стародавньою Ломбардією, де бійці, одягнені\nв обладунки, билися на дуелях для розваги людей.",
         "etypeId": 3,
         "traits": [
             {
@@ -2612,8 +2612,8 @@
             }
         ],
         "iconIndex": 161,
-        "name": "Bremen elite helmet",
-        "note": "\nSlash 85%  Pierce 85%  Blunt 85%  Fire 85%\n\n\n\n\n<Picture: icon_bremen_elite_helmet>",
+        "name": "Бременський елітний шолом",
+        "note": "\nРіжучий 85%  Колючий 85%  Тупий 85%  Вогняний 85%\n\n\n\n\n<Picture: icon_bremen_elite_helmet>",
         "params": [
             0,
             0,
@@ -2656,12 +2656,12 @@
     {
         "id": 79,
         "atypeId": 3,
-        "description": "A seemingly simple shaker instrument. The combination of the\npebbles inside and the various pearls tied onto it create a",
+        "description": "Здавалося б, простий шейкер. Поєднання камінчиків всередині та \nрізноманітних перлин, нанизаних на нього, створюють",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 48,
-        "name": "Chac chac",
-        "note": "\nhypnotic rhytm that helps one to focus on the otherwordly.\n\n\n\n<Picture: icon_chac_chac>",
+        "name": "Чак-чак",
+        "note": "\nгіпнотичний ритм, який допомагає зосередитися на інших словах.\n\n\n\n<Picture: icon_chac_chac>",
         "params": [
             0,
             0,
@@ -2677,7 +2677,7 @@
     {
         "id": 80,
         "atypeId": 3,
-        "description": "An eastern style amulet that is said to have belonged to the deity\nof the wandering warriors, Yggaegetsu. The amulet boosts confidence",
+        "description": "Амулет у східному стилі, який, за переказами, належав божеству \nмандрівних воїнів Іґґаґецу. Амулет додає впевненості",
         "etypeId": 5,
         "traits": [
             {
@@ -2687,8 +2687,8 @@
             }
         ],
         "iconIndex": 49,
-        "name": "Yggaegetsu amulet",
-        "note": "\nin your own prowess and increases the chance of critical hits.\n\n\n\n<Picture: icon_yggaegetsu_amulet>",
+        "name": "Амулет Іґґаґецу",
+        "note": "\nу вашій власній доблесті і збільшує ймовірність критичних ударів.\n\n\n\n<Picture: icon_yggaegetsu_amulet>",
         "params": [
             0,
             0,
@@ -2704,7 +2704,7 @@
     {
         "id": 81,
         "atypeId": 3,
-        "description": "Enchanted doll that is covered in a white substance that can\nonly be described as mold.",
+        "description": "Зачарована лялька, вкрита білою речовиною, яку не можна \nназвати інакше як пліснявою.",
         "etypeId": 5,
         "traits": [
             {
@@ -2714,8 +2714,8 @@
             }
         ],
         "iconIndex": 40,
-        "name": "Molded doll",
-        "note": "\nOtherworldly 87%\n\n\n\n\n\n<Picture: icon_doll>",
+        "name": "Формована лялька",
+        "note": "\nПотойбічний 87%\n\n\n\n\n\n<Picture: icon_doll>",
         "params": [
             0,
             0,
@@ -2731,7 +2731,7 @@
     {
         "id": 82,
         "atypeId": 3,
-        "description": "A key that has seemingly melt in high temperatures. The key feels\nheavier than it's supposed to as if something is attached to it.",
+        "description": "Ключ, який, здається, розплавився від високої температури. Ключ здається \nважчим, ніж має бути, ніби до нього щось прикріплено.",
         "etypeId": 5,
         "traits": [
             {
@@ -2741,8 +2741,8 @@
             }
         ],
         "iconIndex": 39,
-        "name": "Smelter key",
-        "note": "\nA spirit protects the wearer from fire and flames.\n\n\n\n\n<Picture: icon_smelter_key>",
+        "name": "Ключ від плавильної печі",
+        "note": "\nДух захищає власника від вогню та полум'я.\n\n\n\n\n<Picture: icon_smelter_key>",
         "params": [
             0,
             0,
@@ -2785,7 +2785,7 @@
     {
         "id": 84,
         "atypeId": 3,
-        "description": "A simple mask used in competitive fencing. It isn't particularly\ndefensive except against piercing attacks.",
+        "description": "Проста маска, що використовується у змагальному фехтуванні.\nВона не особливо захисна, хіба що від колючих ударів.",
         "etypeId": 3,
         "traits": [
             {
@@ -2810,8 +2810,8 @@
             }
         ],
         "iconIndex": 24,
-        "name": "Epee mask",
-        "note": "\nSlash 97%  Pierce 87%  Blunt 97%  Fire 97%\n\n\n\n\n<Picture: icon_epee_mask>",
+        "name": "Шпажна маска",
+        "note": "\nРіжучий 97%  Колючий 87%  Тупий 97%  Вогняний 97%\n\n\n\n\n<Picture: icon_epee_mask>",
         "params": [
             0,
             0,
@@ -2827,7 +2827,7 @@
     {
         "id": 85,
         "atypeId": 4,
-        "description": "A traditional armor used in fencing. The armor offers decent\nprotection, but it is vulnerable against fire.",
+        "description": "Традиційний обладунок, що використовується у фехтуванні.Обладунки забезпечують \nнепоганий захист, але вони вразливі проти вогню.",
         "etypeId": 4,
         "traits": [
             {
@@ -2852,8 +2852,8 @@
             }
         ],
         "iconIndex": 21,
-        "name": "Fencing gambeson",
-        "note": "\nSlash 90%  Pierce 77%  Blunt 93%  Fire 110%\n\n\n\n\n\n<Picture: icon_fencing_gambeson>\n<Not Independent Item>\n",
+        "name": "Фехтувальний гамбезон",
+        "note": "\nРіжучий 90%  Колючий 77%  Тупий 93%  Вогняний 110%\n\n\n\n\n\n<Picture: icon_fencing_gambeson>\n<Not Independent Item>\n",
         "params": [
             0,
             0,
@@ -2869,7 +2869,7 @@
     {
         "id": 86,
         "atypeId": 4,
-        "description": "A living and seeping darkness that attaches itself to whoever\ndares to touch it and live in symbiosis with it.",
+        "description": "Жива і просочуюча темрява, яка прикріплюється до того, хто наважується \nдоторкнутися до неї і жити в симбіозі з нею.",
         "etypeId": 4,
         "traits": [
             {
@@ -2899,8 +2899,8 @@
             }
         ],
         "iconIndex": 30,
-        "name": "The darkness",
-        "note": "\nSlash 55%  Pierce 65%  Blunt 65%  Fire 93%  Otherworldly 68%\n\n\n\n\n\n<Picture: icon_darkness2>",
+        "name": "Темрява",
+        "note": "\nРіжучий 55%  Колючий 65%  Тупий 65%  Вогняний 93%  Потойбічний 68%\n\n\n\n\n\n<Picture: icon_darkness2>",
         "params": [
             0,
             0,
@@ -2916,7 +2916,7 @@
     {
         "id": 87,
         "atypeId": 6,
-        "description": "A military grade ballistic shield. Used often in riots. If\nyou are lucky, it might even stop bullets.",
+        "description": "Військовий балістичний щит.Часто використовується під час заворушень.\nЯкщо пощастить, може навіть зупинити кулі.",
         "etypeId": 5,
         "traits": [
             {
@@ -2941,8 +2941,8 @@
             }
         ],
         "iconIndex": 162,
-        "name": "Ballistic shield",
-        "note": "\nSlash 80%  Pierce 80%  Blunt 80%  Fire 80%\n\n\n\n\n<Picture: icon_ballistic_shield>",
+        "name": "Балістичний щит",
+        "note": "\nРіжучий 80%  Колючий 80%  Тупий 80%  Вогняний 80%\n\n\n\n\n<Picture: icon_ballistic_shield>",
         "params": [
             0,
             0,
@@ -2958,7 +2958,7 @@
     {
         "id": 88,
         "atypeId": 3,
-        "description": "There are rumours that Bremen experimented with creating artificial\nsouls to power their unholy rituals. If this truly is one of those",
+        "description": "Ходять чутки, що бременці експериментували зі створенням штучних душ \nдля своїх нечестивих ритуалів.Якщо це дійсно один з тих",
         "etypeId": 5,
         "traits": [
             {
@@ -2968,8 +2968,8 @@
             }
         ],
         "iconIndex": 332,
-        "name": "Artificial soul",
-        "note": "\nit could be used to channel otherwordly more efficiently.\n\n\n\n\n\n<Picture: icon_artificial_soul>\n",
+        "name": "Штучна душа",
+        "note": "\nто його можна було б використати для більш ефективного спрямування інших слів.\n\n\n\n\n\n<Picture: icon_artificial_soul>\n",
         "params": [
             0,
             0,
@@ -2985,7 +2985,7 @@
     {
         "id": 89,
         "atypeId": 3,
-        "description": "Said to be an eye of the older god Sylvian herself. How it could\nhave ended up here is a mystery. You have your doubts. It does",
+        "description": "Кажуть, що це око самого старшого бога Сильвії.\nЯк воно могло тут опинитися - загадка?",
         "etypeId": 5,
         "traits": [
             {
@@ -2995,8 +2995,8 @@
             }
         ],
         "iconIndex": 330,
-        "name": "Eye of Sylvian",
-        "note": "\nseem to boost the recovery effect of healing items and magic...\n\n\n\n\n\n<Picture: icon_eye_of_sylvian>",
+        "name": "Око Сильвії",
+        "note": "\nПосилюють ефект відновлення від цілющих предметів і магії...\n\n\n\n\n\n<Picture: icon_eye_of_sylvian>",
         "params": [
             0,
             0,
@@ -3012,7 +3012,7 @@
     {
         "id": 90,
         "atypeId": 3,
-        "description": "Simple armor made from hardened leather. Offers decent protection\nand it's not too heavy.",
+        "description": "Простий обладунок із загартованої шкіри.\nЗабезпечує гідний захист і не надто важкий.",
         "etypeId": 4,
         "traits": [
             {
@@ -3037,8 +3037,8 @@
             }
         ],
         "iconIndex": 333,
-        "name": "Leather armor",
-        "note": "\nSlash 87%  Pierce 75%  Blunt 90%  Fire 93%\n\n\n\n\n<Picture: icon_leather_armor>\n<Not Independent Item>\n",
+        "name": "Шкіряні обладунки",
+        "note": "\nРіжучий 87%  Колючий 75%  Тупий 90%  Вогняний 93%\n\n\n\n\n<Picture: icon_leather_armor>\n<Not Independent Item>\n",
         "params": [
             0,
             0,
@@ -3054,7 +3054,7 @@
     {
         "id": 91,
         "atypeId": 4,
-        "description": "A makeshift armor made from random kitchenware. The breastplate\nis an old stove lid. Desperate times breed creativity.",
+        "description": "Імпровізований обладунок, зроблений з випадкового кухонного начиння.\nНагрудник - стара кришка від плити.Відчайдушні часи породжують творчість.",
         "etypeId": 4,
         "traits": [
             {
@@ -3079,8 +3079,8 @@
             }
         ],
         "iconIndex": 334,
-        "name": "Makeshift armor",
-        "note": "\nSlash 68%  Pierce 69%  Blunt 79%  Fire 95%\n\n\n\n\n<Armor Recipe: 93>\n<Picture: icon_makeshift>\n<Not Independent Item>\n",
+        "name": "Імпровізована броня",
+        "note": "\nРіжучий 68%  Колючий 69%  Тупий 79%  Вогняний 95%\n\n\n\n\n<Armor Recipe: 93>\n<Picture: icon_makeshift>\n<Not Independent Item>\n",
         "params": [
             0,
             0,
@@ -3096,7 +3096,7 @@
     {
         "id": 92,
         "atypeId": 3,
-        "description": "A mysterious skull mask from a faraway continent of Vinland.\nThe mask is said to raise one's perception.",
+        "description": "Загадкова маска черепа з далекого континенту Вінланд.\nКажуть, що маска покращує сприйняття.",
         "etypeId": 3,
         "traits": [
             {
@@ -3131,8 +3131,8 @@
             }
         ],
         "iconIndex": 335,
-        "name": "99 eyes mask",
-        "note": "\nSlash 89%  Pierce 89%  Blunt 89%\n\n\n\n\n<Picture: icon_skull_mask>",
+        "name": "Маска на 99 очей",
+        "note": "\nРіжучий 89%  Колючий 89%  Тупий 89%\n\n\n\n\n<Picture: icon_skull_mask>",
         "params": [
             0,
             0,
@@ -3148,7 +3148,7 @@
     {
         "id": 93,
         "atypeId": 4,
-        "description": "A makeshift armor made from random kitchenware. The breastplate\nis an old stove lid. Desperate times breed creativity.",
+        "description": "Імпровізований обладунок, зроблений з випадкового кухонного начиння.\nНагрудник - це стара кришка від плити.Відчайдушні часи породжують творчість.",
         "etypeId": 4,
         "traits": [
             {
@@ -3173,8 +3173,8 @@
             }
         ],
         "iconIndex": 331,
-        "name": "Makeshift full armor",
-        "note": "\nSlash 66%  Pierce 67%  Blunt 77%  Fire 80%\n\n\n\n\n<Synthesis Ingredients>\narmor 91\nitem 225: 2\nitem 224\n</Synthesis Ingredients>\n<Picture: icon_makeshift2>\n<Not Independent Item>\n",
+        "name": "Імпровізована повна броня",
+        "note": "\nРіжучий 66%  Колючий 67%  Тупий 77%  Вогняний 80%\n\n\n\n\n<Synthesis Ingredients>\narmor 91\nitem 225: 2\nitem 224\n</Synthesis Ingredients>\n<Picture: icon_makeshift2>\n<Not Independent Item>\n",
         "params": [
             0,
             0,
@@ -3271,7 +3271,7 @@
     {
         "id": 97,
         "atypeId": 3,
-        "description": "A burial mask used in old Bohemia. The mask is designed so that\nthe death gurgle of its wearer sounds more like laughter of joy. Because",
+        "description": "Поховальна маска, яку використовували в старій Богемії.Маска сконструйована так, що\nпередсмертне булькання її власника більше схоже на сміх радості.",
         "etypeId": 3,
         "traits": [
             {
@@ -3301,8 +3301,8 @@
             }
         ],
         "iconIndex": 327,
-        "name": "Death mask",
-        "note": "\nof its connection to death, the mask has otherwordly properties.\n\n\n\n\n<Picture: icon_death_mask>",
+        "name": "Маска смерті",
+        "note": "\nОкрім свого зв'язку зі смертю, маска має й інші властивості.\n\n\n\n\n<Picture: icon_death_mask>",
         "params": [
             0,
             0,
@@ -3318,7 +3318,7 @@
     {
         "id": 98,
         "atypeId": 4,
-        "description": "An armor consisting of small metal rings linked together to form\na mesh that protects its wearer.",
+        "description": "Обладунок, що складається з маленьких металевих кілець, з'єднаних між собою у\nвигляді сітки, яка захищає свого власника.",
         "etypeId": 4,
         "traits": [
             {
@@ -3343,8 +3343,8 @@
             }
         ],
         "iconIndex": 340,
-        "name": "Chainmail dress",
-        "note": "\nSlash 65%  Pierce 70%  Blunt 92%  Fire 98%\n\n\n\n\n\n<Picture: icon_chainmail>",
+        "name": "Кольчужна сукня",
+        "note": "\nРіжучий 65%  Колючий 70%  Тупий 92%  Вогняний 98%\n\n\n\n\n\n<Picture: icon_chainmail>",
         "params": [
             0,
             0,
@@ -3360,12 +3360,12 @@
     {
         "id": 99,
         "atypeId": 3,
-        "description": "Your very own pinecone pig. It's an old traditional children's trinket\nfrom the northern land of Oldergård. You can craft one by attaching",
+        "description": "Ваша власна свинка з шишок. Це стара традиційна дитяча іграшка з\nпівнічної країни Ольдергорд. Ви можете зробити її, прикріпивши",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 339,
-        "name": "Pinecone pig",
-        "note": "\n4 sticks to a pinecone and adding a hint of love to the mix.\n\n\n\n\n\n\n<Picture: icon_pinecone_pig>",
+        "name": "Шишкова свиня",
+        "note": "\n4 палички до шишки і додаємо нотку любові до міксу.\n\n\n\n\n\n\n<Picture: icon_pinecone_pig>",
         "params": [
             0,
             0,
@@ -3381,7 +3381,7 @@
     {
         "id": 100,
         "atypeId": 3,
-        "description": "A necklace in the shape of a wing of a butterfly. There is a carving\non the other side: \"You cannot have something new before you rip a",
+        "description": "Намисто у формі крила метелика.З іншого \nбоку є різьблення:\"Ти не можеш отримати щось нове, поки не відірвеш",
         "etypeId": 5,
         "traits": [
             {
@@ -3391,8 +3391,8 @@
             }
         ],
         "iconIndex": 347,
-        "name": "One-winged necklace",
-        "note": "\nwing of a butterfly and sacrifice something in return.\"\n\n\n\n\n\n\n\n<Armor Recipe: 102>\n<Picture: icon_one_winged_necklace>\n<Passive State: 146>",
+        "name": "Однокриле намисто",
+        "note": "\nкрило метелика і не пожертвуєш чимось натомість.\"\n\n\n\n\n\n\n\n<Armor Recipe: 102>\n<Picture: icon_one_winged_necklace>\n<Passive State: 146>",
         "params": [
             0,
             0,
@@ -3408,7 +3408,7 @@
     {
         "id": 101,
         "atypeId": 3,
-        "description": "It's an old vintage necklace. You and your sister both have one of\nof the wings. It has always been a bit too flashy and big for your ",
+        "description": "Це старе вінтажне намисто.У вас з сестрою по одному крилу.\nВоно завжди було занадто кричущим і великим ваш смак. ",
         "etypeId": 5,
         "traits": [
             {
@@ -3418,8 +3418,8 @@
             }
         ],
         "iconIndex": 347,
-        "name": "One-winged necklace",
-        "note": "\ntaste. You prefer more modest jewelry.\n\n\n\n\n\n\n<Armor Recipe: 102>\n<Picture: icon_one_winged_necklace>\n<Passive State: 146>",
+        "name": "Однокриле намисто",
+        "note": "\nВи віддаєте перевагу більш скромним прикрасам.\n\n\n\n\n\n\n<Armor Recipe: 102>\n<Picture: icon_one_winged_necklace>\n<Passive State: 146>",
         "params": [
             0,
             0,
@@ -3435,7 +3435,7 @@
     {
         "id": 102,
         "atypeId": 3,
-        "description": "Combining the two wings into one makes it a complete moth necklace.\nThe necklace eminates special aura that protects from the otherwordly.",
+        "description": "Поєднання двох крил в одне робить його повноцінним намистом-метеликом.\nНамисто випромінює особливу ауру, яка захищає від потойбічного.",
         "etypeId": 5,
         "traits": [
             {
@@ -3445,8 +3445,8 @@
             }
         ],
         "iconIndex": 346,
-        "name": "Blue noctuid necklace",
-        "note": "\nAura that only manifest when one is low on health.\n\n\n\n\n\n\n\n<Synthesis Ingredients>\narmor 100\narmor 101\n</Synthesis Ingredients>\n<Picture: icon_butterfly_necklace>\n<Passive State: 224>",
+        "name": "Намисто синього ніктового метелика",
+        "note": "\nАура, яка проявляється лише тоді, коли здоров'я дуже низьке.\n\n\n\n\n\n\n\n<Synthesis Ingredients>\narmor 100\narmor 101\n</Synthesis Ingredients>\n<Picture: icon_butterfly_necklace>\n<Passive State: 224>",
         "params": [
             0,
             0,
@@ -3462,7 +3462,7 @@
     {
         "id": 103,
         "atypeId": 3,
-        "description": "A leathery mask from ancient times. It is trying to mimic human face\nwith mixed results. The mask does bring joy to whoever wears it.",
+        "description": "Шкіряна маска з давніх часів. Вона намагається імітувати людське обличчя зі\nзмішаними результатами. Маска приносить радість тому, хто її носить.",
         "etypeId": 5,
         "traits": [
             {
@@ -3492,8 +3492,8 @@
             }
         ],
         "iconIndex": 350,
-        "name": "Joy mask",
-        "note": "\nSlash 87%  Pierce 97%  Blunt 97%  Fire 97% Otherworldly 97%\n\n\n\n\n<Picture: icon_joy_mask>\n<Passive State: 225>",
+        "name": "Маска радості",
+        "note": "\nРіжучий 87%  Колючий 97%  Тупий 97%  Вогняний 97% Потойбічний 97%\n\n\n\n\n<Picture: icon_joy_mask>\n<Passive State: 225>",
         "params": [
             0,
             0,
