@@ -1,5 +1,21 @@
 # fear-hunger-2-termina-ua
-Переклад гри на українську мову
+
+
+<p align="center">
+   ⚠️Наразі цей Українізатор працює лише на v1.9.1 ⚠️
+    <br />
+    <a href="ERROR">Підтримай мене 💸🍩☕</a>
+    ·
+    <a href="https://github.com/BedrykO/fear-hunger-2-termina-ua/issues">Повідомити про помилку☠️</a>
+    ·
+    <a href="https://github.com/BedrykO/fear-hunger-2-termina-ua/issues">Задати запитання📝</a>
+  </p>
+</div>
+
+
+
+
+
 
 # Про Українізатор Fear & Hunger 2: Termina 📢
 
