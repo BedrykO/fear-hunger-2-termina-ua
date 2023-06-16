@@ -8,7 +8,7 @@
     ·
     <a href="https://github.com/BedrykO/fear-hunger-2-termina-ua/issues">Повідомити про помилку☠️</a>
     ·
-    <a href="https://github.com/BedrykO/fear-hunger-2-termina-ua/issues">Задати запитання📝</a>
+    <a href="https://github.com/BedrykO/fear-hunger-2-termina-ua/issues">Запитання/Пропозиція📝</a>
   </p>
 </div>
 
