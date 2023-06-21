@@ -280,7 +280,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Check up on your party.",
+        "description": "Запитайте, які думки у вашої команди.",
         "effects": [
             {
                 "code": 44,
@@ -360,7 +360,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Animated figure of a pinecone pig. A loyal companion\nuntil it's very end.",
+        "description": "Анімована фігурка свинки з шишок. Вірний супутник\nдо самого кінця.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
@@ -390,7 +390,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Talking can sometimes get you out of uncomfortable situations.",
+        "description": "Іноді розмова може допомогти вам вийти з незручних ситуацій.",
         "effects": [
             {
                 "code": 44,
@@ -633,7 +633,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Small fire attack with lantern.",
+        "description": "Невелика вогнева атака з ліхтарем.",
         "effects": [
             {
                 "code": 21,
@@ -1119,7 +1119,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Small fire attack with lantern.",
+        "description": "Невелика вогнева атака з ліхтарем.",
         "effects": [
             {
                 "code": 21,
@@ -1193,7 +1193,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "There are worse fates than death. Sometimes it's\ngood to go on your own terms...",
+        "description": "Є долі гірші, ніж смерть. Іноді добре піти на своїх власних\nумовах...",
         "effects": [
             {
                 "code": 44,
@@ -1399,7 +1399,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "There is no shame in running away from battles. Live to see\nanother day.",
+        "description": "Немає нічого соромного в тому, щоб тікати від битв.\nЖиви, щоб побачити наступний день.",
         "effects": [
             {
                 "code": 44,
@@ -1742,7 +1742,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Summon a swarm of crickets to disrupt the enemy.",
+        "description": "Викличте рій цвіркунів, щоб знищити ворога.",
         "effects": [
             {
                 "code": 21,
@@ -1779,7 +1779,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Summon a swarm of rats to disrupt the enemy.",
+        "description": "Викликайте рій щурів, щоб знищити ворога.",
         "effects": [
             {
                 "code": 21,
@@ -1816,7 +1816,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Break through the defence of the opponent.",
+        "description": "Прорвати оборону суперника.",
         "effects": [
             {
                 "code": 21,
@@ -2425,7 +2425,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A special combat stance to prevent severe physical trauma. \nA skill taught to all the squires at the Rondon military.",
+        "description": "Спеціальна бойова стійка для запобігання важким фізичним травмам.\nНавичка, якої навчають усіх зброєносців у війську Рондона.",
         "effects": [
             {
                 "code": 21,
@@ -3048,7 +3048,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Talking can sometimes get you out of uncomformtable\nsituations.",
+        "description": "Іноді розмова може допомогти вам вийти з незручних ситуацій.",
         "effects": [
             {
                 "code": 21,
@@ -4421,7 +4421,7 @@
             "type": 1,
             "variance": 0
         },
-        "description": "Concentrated feelings of hurting create a\ndevastating vortex.",
+        "description": "Створіть руйнівний вихор зі свого болю та ненависті.",
         "effects": [
             {
                 "code": 21,
@@ -4470,7 +4470,7 @@
             "type": 1,
             "variance": 0
         },
-        "description": "Concentrated feelings of hurting create a\ndevastating vortex.",
+        "description": "Створіть руйнівний вихор зі свого болю та ненависті.",
         "effects": [
             {
                 "code": 21,
@@ -4792,7 +4792,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Check the status.",
+        "description": "Перевір статус.",
         "effects": [
             {
                 "code": 21,
@@ -9908,7 +9908,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Provoke the enemy into attacking you.",
+        "description": "Спровокуйте ворога напасти на вас.",
         "effects": [
             {
                 "code": 21,
@@ -10471,7 +10471,7 @@
             "type": 1,
             "variance": 0
         },
-        "description": "Concentrated feelings of hurting create a\ndevastating vortex.",
+        "description": "Створіть руйнівний вихор зі свого болю та ненависті.",
         "effects": [
             {
                 "code": 21,
@@ -14821,7 +14821,7 @@
             "type": 1,
             "variance": 0
         },
-        "description": "Concentrated feelings of hurting create a\ndevastating vortex.",
+        "description": "Створіть руйнівний вихор зі свого болю та ненависті.",
         "effects": [
             {
                 "code": 21,
@@ -27865,7 +27865,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Strike your enemy with a concentrated bolt of electricity\nthat will stun weaker foes. ",
+        "description": "Ударте ворога концентрованим електричним розрядом,\n який оглушить слабших супротивників.",
         "effects": [
             {
                 "code": 21,
